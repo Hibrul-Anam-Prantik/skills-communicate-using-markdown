@@ -14,3 +14,6 @@ public class HelloWorls{
 }
 ```
 
+- [x] Turn on GitHub Pages.
+- [ ] Outline my portfolio.
+- [x] Introduce myselt to the world.
